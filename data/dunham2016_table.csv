@@ -1,0 +1,28 @@
+year,month,day,type,n_obs,method,deltaR_arcsec,sigma_arcsec
+1715,5,3,Total,3,visual,-0.50,0.20
+1878,7,29,Total,12,visual,0.55,0.15
+1900,5,28,Total,8,visual,0.12,0.09
+1912,4,17,Hybrid,26,photoes,-0.29,0.22
+1922,9,21,Total,4,visual,0.20,0.40
+1925,1,24,Total,11,visual,-0.21,0.17
+1966,5,20,Hybrid,9,photoes,0.03,0.05
+1970,3,7,Total,4,visual & proj.,-0.05,0.12
+1972,7,10,Total,14,visual & proj.,-0.02,0.61
+1973,6,30,Total,7,visual & proj.,0.40,0.20
+1976,10,23,Total,14,projection,-0.38,0.09
+1979,2,26,Total,21,visual & proj.,-0.05,0.08
+1980,2,16,Total,36,projection,-0.18,0.05
+1981,2,4,Annular,52,projection,-0.21,0.05
+1983,6,11,Total,26,video & proj.,-0.10,0.08
+1984,5,30,Hybrid,27,video,0.13,0.07
+1987,3,29,Hybrid,11,photoes,-0.19,0.08
+1987,9,23,Annular,44,video,0.10,0.05
+1988,3,18,Total,20,projection,-0.13,0.14
+1991,7,11,Total,23,video,0.00,0.06
+1994,5,10,Annular,75,video,-0.25,0.03
+1995,10,24,Total,25,video,0.11,0.06
+1998,2,26,Total,44,video,0.16,0.04
+1999,8,11,Total,19,video,-0.03,0.04
+2002,12,4,Total,13,video,-0.22,0.06
+2005,10,3,Annular,69,video,-0.06,0.03
+2006,3,29,Total,105,video,0.09,0.16

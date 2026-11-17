@@ -1,0 +1,131 @@
+{
+  "published": {
+    "n": 27,
+    "robust_scatter_arcsec": 0.23721599999999995,
+    "spearman_rho": -0.19270117799851272,
+    "spearman_p": 0.33555218567361067,
+    "pearson_r": -0.2171442065903244,
+    "ols_slope_arcsec_per_ssn": -0.0007182636818952464,
+    "ols_intercept_arcsec": 0.02401657109603344,
+    "mean": -0.0362962962962963,
+    "sd": 0.22683691444512674,
+    "median": -0.05
+  },
+  "corrected_w7p5": {
+    "n": 27,
+    "robust_scatter_arcsec": 0.2053505242233096,
+    "spearman_rho": -0.27263013598050434,
+    "spearman_p": 0.16887678024354968,
+    "pearson_r": -0.20215975628331104,
+    "ols_slope_arcsec_per_ssn": -0.0007047542150606516,
+    "ols_intercept_arcsec": -0.08273030426596209,
+    "mean": -0.14190877672468466,
+    "sd": 0.2390677792275781,
+    "median": -0.1709171169915093
+  },
+  "corrected_w15": {
+    "n": 27,
+    "robust_scatter_arcsec": 0.19600006658993765,
+    "spearman_rho": -0.2448481176443051,
+    "spearman_p": 0.21835733249868755,
+    "pearson_r": -0.1982955963293119,
+    "ols_slope_arcsec_per_ssn": -0.0006663301550241328,
+    "ols_intercept_arcsec": -0.0799401976109472,
+    "mean": -0.13589218751726995,
+    "sd": 0.2304381971303135,
+    "median": -0.14913927019850357
+  },
+  "corrected_w30": {
+    "n": 27,
+    "robust_scatter_arcsec": 0.1939391159045781,
+    "spearman_rho": -0.22622500645190782,
+    "spearman_p": 0.2565164076859088,
+    "pearson_r": -0.21796935241741944,
+    "ols_slope_arcsec_per_ssn": -0.0007381459351070881,
+    "ols_intercept_arcsec": -0.06051630235725911,
+    "mean": -0.12249868991558467,
+    "sd": 0.23223350088883568,
+    "median": -0.14897252377687276
+  },
+  "corrected_w15_lag-1": {
+    "spearman_rho": -0.005495344286281162,
+    "spearman_p": 0.9782973428159256
+  },
+  "corrected_w15_lag+1": {
+    "spearman_rho": -0.2985803728879432,
+    "spearman_p": 0.13032885575782596
+  },
+  "diagnostic_1970plus_published": {
+    "n": 20,
+    "robust_scatter_arcsec": 0.207564,
+    "spearman_rho": -0.13393528969149734,
+    "spearman_p": 0.5734650505183517,
+    "pearson_r": -0.2227751192241759,
+    "ols_slope_arcsec_per_ssn": -0.000563097790425883,
+    "ols_intercept_arcsec": 0.013162872195083511,
+    "mean": -0.044,
+    "sd": 0.17750908056832057,
+    "median": -0.05
+  },
+  "diagnostic_1970plus_corrected_w15": {
+    "n": 20,
+    "robust_scatter_arcsec": 0.14114241558542007,
+    "spearman_rho": -0.25799174445766393,
+    "spearman_p": 0.27211404799179156,
+    "pearson_r": -0.2555276276534562,
+    "ols_slope_arcsec_per_ssn": -0.0006135624932978121,
+    "ols_intercept_arcsec": -0.070853931243404,
+    "mean": -0.1331397277505314,
+    "sd": 0.16862593732072914,
+    "median": -0.1531044664456716
+  },
+  "fiala_substituted_published": {
+    "n": 27,
+    "robust_scatter_arcsec": 0.16308599999999998,
+    "spearman_rho": -0.2849940073208873,
+    "spearman_p": 0.14961881569270624,
+    "pearson_r": -0.28776865520201234,
+    "ols_slope_arcsec_per_ssn": -0.0009326342442581594,
+    "ols_intercept_arcsec": 0.1286840132808185,
+    "mean": 0.050370370370370385,
+    "sd": 0.22225213473892977,
+    "median": 0.0
+  },
+  "fiala_substituted_corrected_w15": {
+    "n": 27,
+    "robust_scatter_arcsec": 0.17472967894567057,
+    "spearman_rho": -0.27659899574281854,
+    "spearman_p": 0.16251413478207394,
+    "pearson_r": -0.2811434308048323,
+    "ols_slope_arcsec_per_ssn": -0.0008807007173870454,
+    "ols_intercept_arcsec": 0.02472724457383782,
+    "mean": -0.04922552085060326,
+    "sd": 0.2148218639188026,
+    "median": -0.06465255113671958
+  },
+  "fiala_substituted_q2": {
+    "R_mean_arcsec": 959.5807744791493,
+    "R_median_arcsec": 959.5653474488632
+  },
+  "bsign_sensitivity": {
+    "mean_abs_delta_bar_shift_arcsec": 0.06121040954914667,
+    "max_abs_delta_bar_shift_arcsec": 0.14824948769140306
+  },
+  "q1_verdict": "PARTIAL / MIXED",
+  "q1_scatter_shrink_fraction": 0.17374853892681064,
+  "q2": {
+    "R_mean_arcsec": 959.4941078124828,
+    "R_se_arcsec": 0.04434785171491951,
+    "R_median_arcsec": 959.4808607298015,
+    "band_mean": "inconsistent with all three",
+    "band_median": "inconsistent with all three",
+    "mean_deltaR_corr": -0.13589218751726995
+  },
+  "q2_verdict": "mean: inconsistent with all three; median: inconsistent with all three",
+  "reference_term_arcsec": 0.37068047200276744,
+  "watts_frame_convention": {
+    "L_sign": 1,
+    "B_sign": -1,
+    "WA_shift_deg": 0.21
+  }
+}

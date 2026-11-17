@@ -1,0 +1,14 @@
+date,dunham2016_dR,dunham2016_sigma,dunham2016_nobs,source2_name,source2_dR,source2_sigma,source2_nobs,difference_dunham_minus_source2,note
+1715-05-03,-0.50,0.20,3,Fiala et al. 1994 via Sigismondi 2008 (AIP 966) Table 1,+0.48,0.20,3,-0.98,"SIGN FLIP at identical n and sigma. Sole2 prints Fiala sigma as 0.02; Sigismondi 2008 eclipse08 Table 1 prints 0.20 - the 0.02 is a typo in the Sole2 reproduction. Hayakawa et al. 2026 compile 1715 as >=959.91 (i.e. dR >= +0.28) and re-derive 959.98+-0.23 (dR = +0.35)."
+1925-01-24,-0.21,0.17,11,Fiala et al. 1994 via Sigismondi 2008 (AIP 966) Table 1,+0.51,0.08,8,-0.72,"SIGN FLIP. Hayakawa et al. 2026 compile 1925 as 960.14+-0.08 (dR = +0.51), agreeing with Fiala, not with Dunham 2016."
+1976-10-23,-0.38,0.09,14,Fiala et al. 1994 via Sigismondi 2008 (AIP 966) Table 1,+0.04,0.07,,-0.42,SIGN FLIP.
+1979-02-26,-0.05,0.08,21,Fiala et al. 1994 via Sigismondi 2008 (AIP 966) Table 1,-0.11,0.05,47,+0.06,"Same sign; obs counts differ (21 vs 47 bead events) - Dunham 2016 is a re-reduction on polar-bead subsets (2-parameter Solrad solutions, beads within 30 deg of poles, per Dunham's IAU GA 2015 talk), not a reprint of Fiala."
+1980-02-16,-0.18,0.05,36,Fiala et al. 1994 via Sigismondi 2008 (AIP 966) Table 1,-0.03,0.03,,-0.15,
+1981-02-04,-0.21,0.05,52,Fiala et al. 1994 via Sigismondi 2008 (AIP 966) Table 1,-0.02,0.03,,-0.19,
+1983-06-11,-0.10,0.08,26,Fiala et al. 1994 via Sigismondi 2008 (AIP 966) Table 1,+0.09,0.02,,-0.19,SIGN FLIP.
+1984-05-30,+0.13,0.07,27,Fiala et al. 1994 via Sigismondi 2008 (AIP 966) Table 1,+0.09,0.04,,+0.04,"Closest agreement in the set. Sole2 classifies the eclipse Annular; Dunham 2016 Hybrid."
+1987-09-23,+0.10,0.05,44,Fiala et al. 1994 via Sigismondi 2008 (AIP 966) Table 1,-0.11,0.03,,+0.21,SIGN FLIP.
+1994-05-10,-0.25,0.03,75,Thompson/IOTA analysis reported in Occultation Newsletter 13(3) 2008,-0.27,0.02,,+0.02,Agreement within 0.02.
+1999-08-11,-0.03,0.04,19,Thompson/IOTA analysis reported in Occultation Newsletter 13(3) 2008,+0.06,0.06,,-0.09,
+2005-10-03,-0.06,0.03,69,Sigismondi 2008 (AIP 966) southern-limit analysis,0.00,0.17,,-0.06,"Sigismondi value is a single-limit (southern) result with much larger sigma."
+2006-03-29,+0.09,0.16,105,Kilcik et al. 2009 Solar Phys. 257:237 (959.22+-0.04),-0.41,0.04,,+0.50,"The archive-era literature's own outlier (NOVELTY_AUDIT item 7). Sigismondi 2008's Egypt-bead value for the same eclipse is 0.00 to -0.01 +- 0.17."
